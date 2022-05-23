@@ -22,9 +22,11 @@ A back end for e-commerce website that uses the latest technologies
 [Video Demo]()
 
 # Below are the sample pages of command line application
-<img src = "" width ="400">
+<img src = "images/shot1.png" width ="400">
 
-<img src = "" width ="400">
+<img src = "images/shot2.png" width ="400">
+
+<img src = "images/shot3.png" width ="400">
 
 # Features and Technologies uses
 * JavaScript
