@@ -14,7 +14,7 @@ ProductTag.init(
       autoIncrement:true
     },
     // product_it - INT and ref to `Product` models' id
-    product_it: {
+    product_id: {
       type: DataTypes.INTEGER,
       references: { 
         model: "product",
