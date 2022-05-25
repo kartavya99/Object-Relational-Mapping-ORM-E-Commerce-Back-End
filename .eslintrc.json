@@ -10,7 +10,7 @@
       "no-duplicate-case": "error",
       "no-empty": "error",
       "no-extra-semi": "error",
-      "no-func-assign": "error",
+      
       "no-irregular-whitespace": "error",
       "no-unreachable": "error",
       "curly": "error",
