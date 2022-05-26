@@ -1,27 +1,30 @@
 # Object-Relational-Mapping-ORM-E-Commerce-Back-End
-A back end for e-commerce website that uses the latest technologies
 
+A back end for e-commerce website that uses the latest technologies
 
 ## [![made-with-javascript](https://img.shields.io/badge/JavaScript-1f425f.svg)](https://www.javascript.com)
 
-# Functionality of this app 
-* The purpose of this application is to communicate to a sql database to retrieve and alter data about categories, products, and tags. You do this by running GET, POST, PUT, and DELETE requests via Insomnia.
+# Functionality of this app
+
+- The purpose of this application is to communicate to a sql database to retrieve and alter data about categories, products, and tags. You do this by running GET, POST, PUT, and DELETE requests via Insomnia.
 
 # Installation
 
-* Download or clone repository.
-* Node.js is required to run the application
-* npm install to install the required packages as per package.json 
+- Download or clone repository.
+- Node.js is required to run the application
+- npm install to install the required packages as per package.json
 
 # Usage
 
-* To start using the application, use node.js command line and follow the prompts
-* The application will run with node index.js command
+- To start using the application, use node.js command line and follow the prompts
+- The application will run with node index.js command
 
-# Demo of application 
-[Video Demo]()
+# Demo of application
+
+[Video Demo](https://drive.google.com/file/d/1AyEbduvcDZfnbuzhLSziALoY2YfAbz_P/view)
 
 # Below are the sample pages of command line application
+
 <img src = "images/shot1.png" width ="400">
 
 <img src = "images/shot2.png" width ="400">
@@ -29,12 +32,13 @@ A back end for e-commerce website that uses the latest technologies
 <img src = "images/shot3.png" width ="400">
 
 # Features and Technologies uses
-* JavaScript
-* Node.js
-* Express.js
-* sequelize 
-* mysql2
 
-## Under the MIT license 
+- JavaScript
+- Node.js
+- Express.js
+- sequelize
+- mysql2
+
+## Under the MIT license
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
